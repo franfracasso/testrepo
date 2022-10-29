@@ -1,3 +1,0 @@
-hola luna
-hola sol
-primer cambio en el commit inicial
